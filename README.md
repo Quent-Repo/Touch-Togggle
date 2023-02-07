@@ -6,6 +6,6 @@ This was made to work with the Linux Wacom Project
 ```Download the Toggle.sh file
 Open terminal and go to where Toggle.sh is saved
 In terminal do `chmod +x Toggle.sh`
-Set a macro to run Toggle.sh
-Set your table to run the macro
+Set a macro to run the script ./Toggle.sh
+Set your table to run the script with a shortcut/macro
 ```
