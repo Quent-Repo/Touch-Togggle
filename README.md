@@ -28,5 +28,6 @@ Wacom Bamboo 16FG 6x8 Pen eraser	id: 17	type: ERASER
 The key thing  is this line
 ```Wacom Bamboo 16FG 6x8 Finger touch	id: 10	type: TOUCH ```
 
-If you do not have a type with the word `TOUCH` at the end then a drive might be missing.
+If you do not see a `type: TOUCH` then a drive might be missing.
+
 Go to https://linuxwacom.github.io/ and check to see if you have the `Kernel Driver` and `libwacom` installed for your distro
