@@ -13,6 +13,7 @@ Set your table to run the script with a shortcut/macro
 `Problems`
 
 If nothing happens then there might be a driver missing
+
 Open terminal and type `xsetwacom --list`
 You should get a result like this:
 ```
