@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 Id_Num=$(xsetwacom --list | grep touch | sed -r "s/.*id: *([0-9]*).*/\1/")
 x=$(xsetwacom --get $Id_Num touch)
 if [ '$x' = 'off' ]
